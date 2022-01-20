@@ -1,0 +1,8 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Modelo de documentação",
+    "description": "Modelo criado para padronização de arquivos nos projetos",
+    "version": "1.0.0"
+  }
+}
